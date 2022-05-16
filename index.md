@@ -1,8 +1,5 @@
-## Escort
 
-Automatically deriving software clustering constraints
-
-### Escort Introduction
+## Escort Introduction
 
 The effectiveness of software maintenance tasks are heavily dependent on the accuracy and reliability of software documentation, especially if the tasks are out-sourced to third party vendors. If the documentations are out-of-date, considerable amount of time need to be spent on software comprehension activities. Software clustering is often used as a remodularization and architecture recovery technique to help developers simplify software maintenance tasks and ease the burden of software comprehension. Despite this, unsupervised clustering techniques tend to ignore prior knowledge from domain experts, leading to results that can be nonsensical to developers. Semi-supervised clustering (constrained clustering) can incorporate supervision of domain experts or side information to help improve clustering results of classic unsupervised clustering techniques. However, these techniques rely heavily on manual analysis for identifying clustering constraints and hence, cannot scale very well. We propose an evolution-aware software clustering constraint derivation approach, Escort, which automatically derives clustering constraints based on evolutionary data of the analyzed software. Specifically, Escort can serve as an alternative approach to derive implicit and explicit constraints in situations where domain experts are absent.
 In the subsequent constrained clustering process, Escort can be considered as a framework to help supplement and enhance various unsupervised clustering techniques to improve their accuracy and reliability.
