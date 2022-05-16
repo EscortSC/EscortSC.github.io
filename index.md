@@ -1,7 +1,9 @@
 
 ## Escort Introduction
 
-The effectiveness of software maintenance tasks are heavily dependent on the accuracy and reliability of software documentation, especially if the tasks are out-sourced to third party vendors. If the documentations are out-of-date, considerable amount of time need to be spent on software comprehension activities. Software clustering is often used as a remodularization and architecture recovery technique to help developers simplify software maintenance tasks and ease the burden of software comprehension. Despite this, unsupervised clustering techniques tend to ignore prior knowledge from domain experts, leading to results that can be nonsensical to developers. Semi-supervised clustering (constrained clustering) can incorporate supervision of domain experts or side information to help improve clustering results of classic unsupervised clustering techniques. However, these techniques rely heavily on manual analysis for identifying clustering constraints and hence, cannot scale very well. We propose an evolution-aware software clustering constraint derivation approach, Escort, which automatically derives clustering constraints based on evolutionary data of the analyzed software. Specifically, Escort can serve as an alternative approach to derive implicit and explicit constraints in situations where domain experts are absent.
+The effectiveness of software maintenance tasks are heavily dependent on the accuracy and reliability of software documentation, especially if the tasks are out-sourced to third party vendors. If the documentations are out-of-date, considerable amount of time need to be spent on software comprehension activities. Software clustering is often used as a remodularization and architecture recovery technique to help developers simplify software maintenance tasks and ease the burden of software comprehension. Despite this, unsupervised clustering techniques tend to ignore prior knowledge from domain experts, leading to results that can be nonsensical to developers. Semi-supervised clustering (constrained clustering) can incorporate supervision of domain experts or side information to help improve clustering results of classic unsupervised clustering techniques. However, these techniques rely heavily on manual analysis for identifying clustering constraints and hence, cannot scale very well. 
+
+We propose an evolution-aware software clustering constraint derivation approach, Escort, which automatically derives clustering constraints based on evolutionary data of the analyzed software. Specifically, Escort can serve as an alternative approach to derive implicit and explicit constraints in situations where domain experts are absent.
 In the subsequent constrained clustering process, Escort can be considered as a framework to help supplement and enhance various unsupervised clustering techniques to improve their accuracy and reliability.
 We evaluate Escort based on both quantitative and qualitative analysis.
 For the quantitative validation, the experiment results showed that our approach outperformed five other unsupervised clustering techniques.
@@ -71,7 +73,20 @@ Encouragingly, 60\% of our reported refactoring suggestions have been acknowledg
 
 ## Qualitative evaluation (RQ2)
 
-```
+### The issues reported by Escort
+
+| ID | Project | Filed Issue ID | \# Suggested refactorings | Status |
+|:---: |:----: |:----: |:----:  |:----:  |
+| 1  | Activemq | [\#8583](https://issues.apache.org/jira/browse/AMQ-8583) | 1 | Fixed |
+| 2  | Atmosphere | [\#2475](https://github.com/Atmosphere/atmosphere/issues/2475) | 1 | Confirmed |			
+| 3  | Cassandra | [\#17590](https://issues.apache.org/jira/browse/CASSANDRA-17590), [\#17591](https://issues.apache.org/jira/browse/CASSANDRA-17591) | 2 | Pending |		
+| 4  | Cxf | [\#8690](https://issues.apache.org/jira/browse/CXF-8690) | 2 | Fixed |	
+| 5  | Dbeaver | [\#16144](https://github.com/dbeaver/dbeaver/issues/16144) | 2 | Confirmed |
+| 6  | Openapi-generator | [\#12200](https://github.com/OpenAPITools/openapi-generator/issues/12200) | 2 | Pending |
+| 7  | Orientdb|[\#9787](https://github.com/orientechnologies/orientdb/issues/9787) | 2 | Pending |
+| 8  | Speedment | [\#992](https://github.com/speedment/speedment/issues/992) | 1 | Confirmed |
+| 9  | Spring-framework | [\#28378](https://github.com/spring-projects/spring-framework/issues/28378) | 2 | Confirmed |
+
 
 
 
