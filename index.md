@@ -66,12 +66,12 @@ Encouragingly, 60\% of our reported refactoring suggestions have been acknowledg
 | 49 | [Tika](https://github.com/apache/tika)                                       | 56 | 2 | 1,002 | 82.0 | 526 | 4,747 | 
 | 50 | [Traccar](https://github.com/traccar/traccar)                                | 31 | 2 | 2,392 | 25.9 | 415 | 6,227 |
 
-| head1        | head two          | three |
-|-------------|------------------|------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok | good `oreos`      | hmm   |
-| ok | good `zoute` drop | yumm  |
+## Studied Subject
+
+| ID | Project | Versions | Major Versions | Stars | KLOC (Avg) | Classes (Avg) |  Commits |
+| ---| ----                                                                         | ----       | ----  | ----  | ----  | ----  | ----  |
+| 1  | Activemq                            | 64         | 2 | 1,764 | 324.9 | 3,057 | 10,601 |
+| 2  | Activemq-artemis           | 32         | 2 | 602 | 518.3 | 3,324 | 7,502|		
 
 
 **Bold** and _Italic_ and `Code` text
