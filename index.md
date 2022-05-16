@@ -14,7 +14,7 @@ Encouragingly, 60\% of our reported refactoring suggestions have been acknowledg
 
 ## Studied Subject
 
-| ID | Project | \# Versions | Major Versions | Stars | KLOC (Avg) | Classes (Avg) | Commits |
+| ID | Project | \# Versions | \# Major Versions | \# Stars | KLOC (Avg) | \# Classes (Avg) | Commits |
 |:---: |:----: |:----: |:----:  |:----:  |:----:  |:----:  |:----:  |
 | 1  | [Activemq](https://github.com/apache/activemq)                               | 64         | 2 | 1,764 | 324.9 | 3,057 | 10,601 |
 | 2  | [Activemq-artemis](https://github.com/apache/activemq-artemis)               | 32         | 2 | 602 | 518.3 | 3,324 | 7,502|			
