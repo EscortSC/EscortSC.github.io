@@ -15,7 +15,7 @@ Encouragingly, 60\% of our reported refactoring suggestions have been acknowledg
 ## Studied Subject
 
 | ID | Project | Versions | Major Versions | Stars | KLOC (Avg) | Classes (Avg) | Commits |
-|:--- |:---- |:---- |:----  |:----  |:----  |:----  |:----  |
+|:---: |:----: |:----: |:----:  |:----:  |:----:  |:----:  |:----:  |
 | 1  | [Activemq](https://github.com/apache/activemq)                               | 64         | 2 | 1,764 | 324.9 | 3,057 | 10,601 |
 | 2  | [Activemq-artemis](https://github.com/apache/activemq-artemis)               | 32         | 2 | 602 | 518.3 | 3,324 | 7,502|			
 | 3  | [Aeron](https://github.com/real-logic/aeron)                                 | 86         | 2 | 5,065 | 51.1 | 330 | 12,654 |		
@@ -67,24 +67,12 @@ Encouragingly, 60\% of our reported refactoring suggestions have been acknowledg
 | 49 | [Tika](https://github.com/apache/tika)                                       | 56 | 2 | 1,002 | 82.0 | 526 | 4,747 | 
 | 50 | [Traccar](https://github.com/traccar/traccar)                                | 31 | 2 | 2,392 | 25.9 | 415 | 6,227 |
 
+## Quantitative evaluation (RQ1)
 
-| ID | Project | Versions | Major Versions | Stars | KLOC (Avg) | Classes (Avg) | Commits |
-|:--- |:---- |:---- |:----  |:----  |:----  |:----  |:----  |
-| 1  | [Activemq](https://github.com/apache/activemq)                               | 64         | 2 | 1,764 | 324.9 | 3,057 | 10,601 |
-| 2  | [Activemq-artemis](https://github.com/apache/activemq-artemis)               | 32         | 2 | 602 | 518.3 | 3,324 | 7,502|			
-| 3  | [Aeron](https://github.com/real-logic/aeron)                                 | 86         | 2 | 5,065 | 51.1 | 330 | 12,654 |		
+## Qualitative evaluation (RQ2)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EscortSC/EscortSC.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
