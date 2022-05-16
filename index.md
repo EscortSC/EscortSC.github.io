@@ -71,6 +71,9 @@ Encouragingly, 60\% of our reported refactoring suggestions have been acknowledg
 
 ## Quantitative evaluation (RQ1)
 
+[Number of clustering constraints derived from subjects.xlsx](https://github.com/EscortSC/EscortSC.github.io/files/8700234/Number.of.clustering.constraints.derived.from.subjects.xlsx)
+
+
 ## Qualitative evaluation (RQ2)
 
 ### The issues reported by Escort
