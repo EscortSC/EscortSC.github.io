@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+	<!-- 默认配置，如果没有指定则使用这个配置 -->
+	<default-config>
+		<!-- 基本配置 -->
+		<property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+		<property name="jdbcUrl">jdbc:mysql://localhost:3306/referencemodel?&amp;useSSL=false&amp;serverTimezone=UTC</property>
+		
+		<property name="user">root</property>
+		<property name="password">12345678</property>
+ 
+		<!--扩展配置 -->
+		<property name="checkoutTimeout">30000</property>
+		<property name="idleConnectionTestPeriod">30</property>
+		<property name="initialPoolSize">5</property>
+		<property name="maxPoolSize">50000</property>
+		<property name="minPoolSize">10</property>
+		<property name="maxStatements">100</property>
+		<property name="acquireIncrement">5</property>
+		
+		
+	</default-config>
+ 
+</c3p0-config> 
+ 
