@@ -79,8 +79,7 @@ Encouragingly, 60% of our reported refactoring suggestions have been acknowledge
 
 ### Questionnaire
 
-<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> [Questionnaire.zip](https://github.com/EscortSC/EscortSC.github.io/files/8708805/Questionnaire.zip)
-
+<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> [Questionnaire.zip](https://github.com/EscortSC/EscortSC.github.io/files/9043279/Questionnaire.zip)
 
 ### The issues reported by Escort
 
