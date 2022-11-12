@@ -28,7 +28,7 @@ Encouragingly, 60% of our reported refactoring suggestions have been acknowledge
 | 8  | [Atomix](https://github.com/atomix/atomix)                                   | 95 | 3 | 1,901 | 55.6 | 619 | 4,265 |	
 | 9  | [AxonFramework](https://github.com/AxonFramework/AxonFramework)              | 99 | 4 | 2,020 | 93.0 | 724 | 5,951 |	
 | 10 | [Beam](https://github.com/apache/beam)                                       | 83 | 2 | 3,998 | 389.6 | 1,063 | 27,132 |
-| 11 | [Bisq](https://github.com/apache/beam)                                       | 86 | 2 | 3,102 | 111.1 | 892 | 11,168 |
+| 11 | [Bisq](https://github.com/bisq-network/bisq)                                 | 86 | 2 | 3,102 | 111.1 | 892 | 11,168 |
 | 12 | [Byte-buddy](https://github.com/raphw/byte-buddy)                            | 202 | 2 | 3,485 | 117.0 | 581 | 5,200 |
 | 13 | [Calcite](https://github.com/apache/calcite)                                 | 52 | 2 | 1,894 | 211.5 | 869 | 4,175 |
 | 14 | [Camel](https://github.com/apache/camel)                                     |	154 | 3 | 3,242 | 680.0 | 7,981 | 45,096 |
