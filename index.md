@@ -71,9 +71,10 @@ Encouragingly, 60% of our reported refactoring suggestions have been acknowledge
 
 ## Quantitative evaluation (RQ1)
 
-<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> [Number of clustering constraints derived from subjects.xlsx](https://github.com/EscortSC/EscortSC.github.io/files/8713021/Number.of.clustering.constraints.derived.from.subjects.xlsx)
+<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> [Number of clustering constraints derived from subjects.xlsx](https://github.com/EscortSC/EscortSC.github.io/files/9995173/Number.of.clustering.constraints.derived.from.subjects.xlsx)
 
-<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> [The results of the application of ESCORT in different algorithms.xlsx](https://github.com/EscortSC/EscortSC.github.io/files/8763721/The.results.of.the.application.of.ESCORT.in.different.algorithms.xlsx)
+<img width="26" alt="dl" src="https://user-images.githubusercontent.com/104186731/168603749-1422d6db-921f-4976-8b95-5f77ca20bc5f.png"> [The results of the application of ESCORT in different algorithms.xlsx](https://github.com/EscortSC/EscortSC.github.io/files/9995174/The.results.of.the.application.of.ESCORT.in.different.algorithms.xlsx)
+
 
 ## Qualitative evaluation (RQ2)
 
@@ -86,14 +87,25 @@ Encouragingly, 60% of our reported refactoring suggestions have been acknowledge
 | ID | Project | Filed Issue ID | \# Suggested refactorings | Status |
 |:---: |:----: |:----: |:----:  |:----:  |
 | 1  | Activemq | [\#8583](https://issues.apache.org/jira/browse/AMQ-8583) | 1 | Fixed |
-| 2  | Atmosphere | [\#2475](https://github.com/Atmosphere/atmosphere/issues/2475) | 1 | Confirmed |			
-| 3  | Cassandra | [\#17590](https://issues.apache.org/jira/browse/CASSANDRA-17590), [\#17591](https://issues.apache.org/jira/browse/CASSANDRA-17591) | 2 | Pending |		
-| 4  | Cxf | [\#8690](https://issues.apache.org/jira/browse/CXF-8690) | 2 | Fixed |	
-| 5  | Dbeaver | [\#16144](https://github.com/dbeaver/dbeaver/issues/16144) | 2 | Confirmed |
-| 6  | Openapi-generator | [\#12200](https://github.com/OpenAPITools/openapi-generator/issues/12200) | 2 | Pending |
-| 7  | Orientdb|[\#9787](https://github.com/orientechnologies/orientdb/issues/9787) | 2 | Pending |
-| 8  | Speedment | [\#992](https://github.com/speedment/speedment/issues/992) | 1 | Confirmed |
-| 9  | Spring-framework | [\#28378](https://github.com/spring-projects/spring-framework/issues/28378) | 2 | Confirmed |
+| 2  | Aeron | [\#1374]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/real-logic/aeron/issues/1374)) | 4 | Confirmed |	
+| 3  | Alluxio | [\#16439]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/Alluxio/alluxio/issues/16439)) | 2 | Pending |	
+| 4  | Atmosphere | [\#2475](https://github.com/Atmosphere/atmosphere/issues/2475) | 1 | Confirmed |	
+| 5  | AxonFramework | [\#2467]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/AxonFramework/AxonFramework/issues/2467)) | 2 | Confirmed |	
+| 6  | Beam | [\#23896]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/apache/beam/issues/23896)) | 1 | Confirmed |	
+| 7  | Bisq | [\#6395](https://github.com/bisq-network/bisq/issues/6395) | 3 | Fixed |	
+| 8  | Byte-buddy | [\#1352](https://github.com/raphw/byte-buddy/issues/1352) | 2 | Confirmed |	
+| 9  | Cassandra | [\#17590](https://issues.apache.org/jira/browse/CASSANDRA-17590), [\#17591](https://issues.apache.org/jira/browse/CASSANDRA-17591) | 2 | Pending |		
+| 10  | Cxf | [\#8690](https://issues.apache.org/jira/browse/CXF-8690) | 2 | Fixed |
+| 11  | Dbeaver | [\#16144](https://github.com/dbeaver/dbeaver/issues/16144) | 2 | Confirmed |
+| 12  | Debezium | [\#5784](https://issues.redhat.com/browse/DBZ-5784) | 3 | Pending |	
+| 13  | Flink | [\#29806](https://issues.apache.org/jira/browse/FLINK-29806) | 1 | Confirmed |	
+| 14  | Atmosphere | [\#2475](https://github.com/Atmosphere/atmosphere/issues/2475) | 1 | Confirmed |	
+| 15  | Openapi-generator | [\#12200](https://github.com/OpenAPITools/openapi-generator/issues/12200) | 2 | Pending |
+| 16 | Orientdb|[\#9787](https://github.com/orientechnologies/orientdb/issues/9787) | 2 | Pending |
+| 17  | Redisson | [\#4642](https://github.com/redisson/redisson/issues/4642) | 1 | Pending |	
+| 18  | Speedment | [\#992](https://github.com/speedment/speedment/issues/992) | 1 | Confirmed |
+| 19  | Spring-framework | [\#28378](https://github.com/spring-projects/spring-framework/issues/28378) | 2 | Confirmed |
+| 20  | Tika | [\#3905](https://issues.apache.org/jira/browse/TIKA-3905) | 3 | Confirmed |	
 
 
 
