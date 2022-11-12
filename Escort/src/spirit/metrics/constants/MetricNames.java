@@ -1,0 +1,49 @@
+/** <a href="http://www.cpupk.com/decompiler">Eclipse Class Decompiler</a> plugin, Copyright (c) 2017 Chen Chao. **/
+package spirit.metrics.constants;
+
+public class MetricNames {
+	public static final String WMC = "WMC";
+	public static final String NOF = "NOF";
+	public static final String NOM = "NOM";
+	public static final String NLOC = "NLOC";
+	public static final String ATFD = "ATFD";
+	public static final String ATLD = "ATLD";
+	public static final String TCC = "TCC";
+	public static final String LOC = "LOC";
+	public static final String MNL = "MNL";
+	public static final String FON = "FON";
+	public static final String MFA = "MFA";
+	public static final String MCFA = "MCFA";
+	public static final String NOAV = "NOAV";
+	public static final String BM = "BM";
+	public static final String GC = "GC";
+	public static final String NOPA = "NOPA";
+	public static final String NOPM = "NOPM";
+	public static final String LAA = "LAA";
+	public static final String FDP = "FDP";
+	public static final String NOAM = "NOAM";
+	public static final String WOC = "WOC";
+	public static final String ListOfATFD = "ListOfATFD";
+	public static final String ListOfATLD = "ListOfATLD";
+	public static final String ListOfClassInvoked = "ListOfClassInvoked";
+	public static final String ListOfClassInvoking = "ListOfClassInvoking";
+	public static final String ListOfMethodInvoked = "ListOfMethodInvoked";
+	public static final String ListOfMethodInvoking = "ListOfMethodInvoking";
+	public static final String SC = "SC";
+	public static final String CINT = "CINT";
+	public static final String CDISP = "CDISP";
+	public static final String CC = "CC";
+	public static final String CM = "CM";
+	public static final String NProtM = "NProtM";
+	public static final String BUR = "BUR";
+	public static final String BOvR = "BOvR";
+	public static final String AMW = "AMW";
+	public static final String ListOfLocalFieldUsed = "ListOfLocalFieldUsed";
+	public static final String ListOfLocalMethodInvoked = "ListOfLocalMethodInvoked";
+	public static final String nameOfClasses = "nameOfClasses";
+	public static final String NAS = "NAS";
+	public static final String PNAS = "PNAS";
+	public static final String NOvM = "NOvM";
+	public static final String NPOvM = "NPOvM";
+	public static final String NPOvMAns = "NPOvMAns";
+}
