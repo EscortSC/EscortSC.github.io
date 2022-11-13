@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">org.hsqldb.jdbcDriver</property>
+        <property name="hibernate.connection.url">jdbc:hsqldb:hsql://localhost/SpiritDB</property>
+        <property name="hibernate.connection.username">sa</property>
+        <property name="connection.password"></property>
+		<property name="connection.pool_size">1</property>
+		<property name="hibernate.dialect">org.hibernate.dialect.HSQLDialect</property>
+		<property name="show_sql">true</property>
+		<property name="hbm2ddl.auto">update</property>
+
+
+
+
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/BrainClassDetectionConfiguration.hbm.xml"/>
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/BrainMethodDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/DataClassDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/DispersedCouplingDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/FeatureEnvyDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/GodClassDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/IntensiveCouplingDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/RefusedParentBequestDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/ShotgunSurgeryDetectionConfiguration.hbm.xml"/>
+
+		<mapping resource="spirit/core/smells/detectors/configurationByProject/TraditionBreakerDetectionConfiguration.hbm.xml"/>
+
+    </session-factory>
+</hibernate-configuration>
