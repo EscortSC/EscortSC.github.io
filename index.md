@@ -87,8 +87,8 @@ Encouragingly, 60% of our reported refactoring suggestions have been acknowledge
 | ID | Project | Filed Issue ID | \# Suggested refactorings | Status |
 |:---: |:----: |:----: |:----:  |:----:  |
 | 1  | Activemq | [\#8583](https://issues.apache.org/jira/browse/AMQ-8583) | 1 | Fixed |
-| 2  | Aeron | [\#1374](https://github.com/real-logic/aeron/issues/1374)) | 4 | Confirmed |	
-| 3  | Alluxio | [\#16439](https://github.com/Alluxio/alluxio/issues/16439)) | 2 | Pending |	
+| 2  | Aeron | [\#1374](https://github.com/real-logic/aeron/issues/1374) | 4 | Confirmed |	
+| 3  | Alluxio | [\#16439](https://github.com/Alluxio/alluxio/issues/16439) | 2 | Pending |	
 | 4  | Atmosphere | [\#2475](https://github.com/Atmosphere/atmosphere/issues/2475) | 1 | Confirmed |	
 | 5  | AxonFramework | [\#2467](https://github.com/AxonFramework/AxonFramework/issues/2467) | 2 | Confirmed |	
 | 6  | Beam | [\#23896](https://github.com/apache/beam/issues/23896) | 1 | Confirmed |	
