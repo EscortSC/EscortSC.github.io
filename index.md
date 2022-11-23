@@ -87,11 +87,11 @@ Encouragingly, 60% of our reported refactoring suggestions have been acknowledge
 | ID | Project | Filed Issue ID | \# Suggested refactorings | Status |
 |:---: |:----: |:----: |:----:  |:----:  |
 | 1  | Activemq | [\#8583](https://issues.apache.org/jira/browse/AMQ-8583) | 1 | Fixed |
-| 2  | Aeron | [\#1374]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/real-logic/aeron/issues/1374)) | 4 | Confirmed |	
-| 3  | Alluxio | [\#16439]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/Alluxio/alluxio/issues/16439)) | 2 | Pending |	
+| 2  | Aeron | [\#1374](https://github.com/real-logic/aeron/issues/1374)) | 4 | Confirmed |	
+| 3  | Alluxio | [\#16439](https://github.com/Alluxio/alluxio/issues/16439)) | 2 | Pending |	
 | 4  | Atmosphere | [\#2475](https://github.com/Atmosphere/atmosphere/issues/2475) | 1 | Confirmed |	
-| 5  | AxonFramework | [\#2467]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/AxonFramework/AxonFramework/issues/2467)) | 2 | Confirmed |	
-| 6  | Beam | [\#23896]([https://github.com/Atmosphere/atmosphere/issues/2475](https://github.com/apache/beam/issues/23896)) | 1 | Confirmed |	
+| 5  | AxonFramework | [\#2467](https://github.com/AxonFramework/AxonFramework/issues/2467) | 2 | Confirmed |	
+| 6  | Beam | [\#23896](https://github.com/apache/beam/issues/23896) | 1 | Confirmed |	
 | 7  | Bisq | [\#6395](https://github.com/bisq-network/bisq/issues/6395) | 3 | Fixed |	
 | 8  | Byte-buddy | [\#1352](https://github.com/raphw/byte-buddy/issues/1352) | 2 | Confirmed |	
 | 9  | Cassandra | [\#17590](https://issues.apache.org/jira/browse/CASSANDRA-17590), [\#17591](https://issues.apache.org/jira/browse/CASSANDRA-17591) | 2 | Pending |		
